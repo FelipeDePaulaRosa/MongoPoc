@@ -6,7 +6,7 @@ This is a simple POC that connect a .NET 7 WebApi to MongoDB, using the nuget pa
 * .NET 7
 
 **CONFIGURATIONS TO UP** 
-<p> Assign the following values to section "MongoDB" of appsettings.json </p>
+<p> Assign the following values to the "MongoDB" section of appsettings.json: </p>
 
 * ConnectionString
 * DatabaseName
